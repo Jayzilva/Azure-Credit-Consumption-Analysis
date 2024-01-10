@@ -8,3 +8,4 @@ Power BI Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNDFkZjMxMGUtMWJi
 <img src="imges\4.jpeg">
 <img src="imges\5.jpeg">
 <img src="imges\6.jpeg">
+<img src="imges/Web capture_10-1-2024_173945_app.powerbi.com.jpeg">
